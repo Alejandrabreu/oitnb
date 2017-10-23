@@ -1,0 +1,71 @@
+.first{
+  width: 600px;
+  height: 220px;
+  margin: 0 auto;
+  padding-top: 20px;
+  background color: red;
+}
+.piper{ display: inline-block;
+        background-image: url(Piper.jpg);
+        background-repeat: no-repeat;
+        padding-top: 100px;
+        padding-right: 30px;
+        padding-bottom: 100px;
+        margin-right: 10px;}
+
+.alex{  display: inline-block;
+    background-image: url(Alex_Vause.png);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-right: 45px;
+    margin-right: 10px;}
+
+.tasha{  display: inline-block;
+    background-image: url(Tasha.png);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-right: 30px;
+    margin-right: 10px;}
+
+p{  margin-top: 70px;
+    padding-left: 50px;
+    color: black;
+    background-color: yellow;
+    opacity: 0.8;
+    text-shadow: 4px 4px 4px rgba(150, 150, 150, 1);}
+
+.second{  width: 700px;
+          height: 310px;
+          margin: 0 auto;
+          padding-left: 90px;
+          padding-bottom: 0px;}
+
+.poussey{ display: inline-block;
+          background-image: url(poussey.jpg);
+          background-repeat: no-repeat;
+          padding-top: 100px;
+          padding-right: 10PX;
+          padding-left: -10PX;
+          padding-bottom: 100px;
+          margin-right: 10px;}
+
+.susan{ display: inline-block;
+        background-image: url(Susan.jpg);
+        background-repeat: no-repeat;
+        padding-top: 100px;
+        padding-right: 10px;
+        margin-right: 10px;}
+
+.red{ display: inline-block;
+      background-image: url(red.png);
+      background-repeat: no-repeat;
+      padding-top: 100px;
+      padding-right: 110px;
+      margin-right: 10px;}
+
+p{  margin-top: 70px;
+    padding-left: 60px;
+    color: black;
+    background-color: yellow;
+    opacity: 0.8;
+    text-shadow: 4px 4px 4px rgba(150, 150, 150, 1);}
